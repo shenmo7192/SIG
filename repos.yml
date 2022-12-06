@@ -22,3 +22,7 @@ repos:
   - repo: kpat
     group: deepin-pkg
     info: solitaire card games
+    
+  - repo: spark-store
+    group: spark-store-deepin
+    info: 星火应用商店是国内较为知名的Debian系Linux第三方应用商店
